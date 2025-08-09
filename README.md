@@ -1,2 +1,2 @@
 # concrete_print_info
-repo
+This serves as a comprehensive record of the development of concrete 3D printing device presented in "Development of Desktop Additive Manufacturing Device for Cementitious Materials" journal paper, it also serves as a guidance for those interested in biulding the extruder by their own, it contains the 3D models of printable parts, wiring, and additional information regarding the designed machine. The designed extruder is licensed under CC BY-SA 4.0
