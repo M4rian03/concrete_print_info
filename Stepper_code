@@ -1,0 +1,12 @@
+const int pulPin = 3;
+
+void setup() {
+  pinMode(pulPin, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(pulPin, HIGH);
+  delayMicroseconds(7000);
+  digitalWrite(pulPin, LOW);
+  delayMicroseconds(7000);
+}
